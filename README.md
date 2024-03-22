@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohaib Ahmed</h1>
-<h3 align="center">A passionate develope</h3>
+<h3 align="center">A passionate developer</h3>
 
 - 🔭 I’m currently working on **Multiple Web Development Projects**
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [To be uploaded soon](To be uploaded soon)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://github.com/Sohaib-Ahmed869</h3>
 <p align="left">
 </p>
 
