@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sohaib Ahmed</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">A seasoned developer</h3>
 
-- 🔭 I’m currently working on **Multiple Web Development Projects**
+- 🔭 I’m currently working on **Multiple Full Stack Projects (Development and Deployment)**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sohaib-Ahmed869](https://github.com/Sohaib-Ahmed869)
 
